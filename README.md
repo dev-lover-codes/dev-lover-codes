@@ -1,4 +1,4 @@
-# Hi there, I'm devloper 
+# Hi there, I'm dev lover 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzcW9uYmc5eXBwZndidXN3eDZ6eTZxeDdyeHlxNXp2dmZlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoGMMfxMfe0R/giphy.gif" width="600" height="300"/>
