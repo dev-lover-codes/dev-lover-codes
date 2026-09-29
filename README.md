@@ -1,75 +1,76 @@
+<!-- ============================ 3D HERO ============================ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Faiz+%F0%9F%91%8B;Full+Stack+Developer;AI-Integrated+Product+Builder;Turning+Prompts+Into+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="./assets/hero-3d.svg" width="100%" alt="dev-lover-codes — animated 3D banner"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Faiz+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;AI-Integrated+Product+Builder+%F0%9F%A4%96;Turning+Prompts+Into+Products+%F0%9F%9A%80;Building+in+public%2C+one+commit+at+a+time" alt="Typing SVG"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=dev-lover-codes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI-powered%20products%2C%20one%20vibe%20coding%20session%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
+<p>
+  <a href="https://github.com/dev-lover-codes"><img src="https://komarev.com/ghpvc/?username=dev-lover-codes&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views"/></a>
+  <a href="https://github.com/dev-lover-codes?tab=followers"><img src="https://img.shields.io/github/followers/dev-lover-codes?label=Followers&style=for-the-badge&color=ec4899&logo=github" alt="Followers"/></a>
+  <a href="https://medisync.is-a.dev"><img src="https://img.shields.io/badge/Live-MediSync-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MediSync live"/></a>
+</p>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🧭 About Me
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ```yaml
-student: "3rd Year B.Tech, Computer Science & Technology"
-institute: "Maharaja Agrasen Institute of Technology (MAIT), Delhi"
+student:    "3rd Year B.Tech, Computer Science & Technology"
+institute:  "Maharaja Agrasen Institute of Technology (MAIT), Delhi"
 background: "Lateral entry — Diploma in Electrical Engineering"
-focus: "Full Stack Product Development + AI Integration"
-workflow: "AI-assisted vibe coding via Antigravity & Gemini CLI"
-currently: "Building a 12-month placement-ready roadmap"
+focus:      "Full Stack Product Development + AI Integration"
+workflow:   "AI-assisted vibe coding via Antigravity & Gemini CLI"
+currently:  "Building a 12-month placement-ready roadmap"
 ```
 
-- 🎯 Targeting **Full Stack Product Developer** roles with strong AI integration
-- 🏆 Competing in **Hack2skill PromptWars** and **Google Arcade**
-- 🎬 Hobby: converting manhwa (Korean webtoons) into videos
-- ☁️ Deep into **Google Drive / Colab automation** and media pipeline engineering
-- 🌱 Actively sharpening **C++ DSA** for placement prep
+- 🎯 Targeting **Full Stack Product Developer** roles with strong **AI integration**
+- 🏆 Competing in **Hack2skill PromptWars**, **SIH** and **Google Arcade**
+- 🌱 Sharpening **C++ DSA** for placement prep
+- ☁️ Deep into **Google Drive / Colab automation** & media pipelines
+- 🎬 Hobby: converting **manhwa** into videos
 
----
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lover-codes&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa" alt="Top languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-**Languages**
+**💻 Languages**<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,js,ts,dart&theme=dark" alt="Languages"/>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+**🎨 Frontend, 3D & Mobile**<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,flutter,html,css&theme=dark" alt="Frontend"/>
 
-**Frontend & Mobile**
+**☁️ Backend, Data & Cloud**<br/><br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,cloudflare,docker,netlify&theme=dark" alt="Backend & Cloud"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Backend, Data & Cloud**
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-
-**AI & Dev Tooling**
-
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logo=googlebard&logoColor=white" />
+**🤖 AI & Dev Tooling**<br/><br/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logo=googlebard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spline_3D-000000?style=for-the-badge&logo=spline&logoColor=white"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -77,56 +78,74 @@ currently: "Building a 12-month placement-ready roadmap"
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 MediSync
-**Flutter + Supabase + Firebase**
+### 🏥 [MediSync](https://github.com/dev-lover-codes/Medisync)
+`Flutter` `Supabase` `Firebase`
 
-A 51-screen clinical management system spanning 6 role-based panels, built with the custom **Velvet Clinical** design system.
+A **51-screen clinical management system** spanning **6 role-based panels**, built on the custom **Velvet Clinical** design system.
 
-🔗 [medisync.is-a.dev](https://medisync.is-a.dev)
-
-</td>
-<td width="50%" valign="top">
-
-### 📒 KhataMitra
-**Supabase + Vercel + Gemini API**
-
-Bilingual (Hindi/English) AI-powered ledger app that makes bookkeeping accessible for local shopkeepers.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 CarbonSync
-**React + Three Fiber + Firebase + Gemini API**
-
-A carbon-tracking web app built for PromptWars Challenge 3, with heavy iteration on test coverage and security hardening.
+🔗 **[medisync.is-a.dev](https://medisync.is-a.dev)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🗳️ VoteWise
-**Stitch + Spline + Firebase Auth + Supabase + Claude API**
+### 📒 [KhataMitra](https://github.com/dev-lover-codes/Khata-mitr)
+`Supabase` `Vercel` `Gemini API`
 
-A PromptWars entry exploring AI-assisted, secure digital voting experiences.
+**Bilingual (Hindi/English) AI-powered ledger** that makes bookkeeping accessible for local shopkeepers.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 ArenaIQ
-**Full-stack web app**
+### 🌱 [CarbonSync](https://github.com/dev-lover-codes/CarbonSync)
+`React` `Three Fiber` `Firebase` `Gemini API`
 
-Built for a timed challenge, reaching **116/116 tests passing** — a deep dive into rapid, AI-assisted shipping under pressure.
+A **3D carbon-tracking web app** built for **PromptWars Challenge 3**, with heavy iteration on test coverage and security hardening.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗳️ [VoteWise](https://github.com/dev-lover-codes/VoteWise)
+`Stitch` `Spline` `Firebase Auth` `Supabase` `Claude API`
+
+A **PromptWars** entry exploring **AI-assisted, secure digital voting** experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [ArenaIQ](https://github.com/dev-lover-codes/Arena_IQ)
+`TypeScript` `Full Stack`
+
+Built for a timed challenge, reaching **116/116 tests passing** — rapid, AI-assisted shipping under pressure.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 [Saathi-Vyapar](https://github.com/dev-lover-codes/Saathi-Vyapar)
+`TypeScript`
+
+My newest build — already **forked by other developers**. 🍴
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [VoiceGuard](https://github.com/dev-lover-codes/voiceguard_sih)
+`JavaScript` `Smart India Hackathon`
+
+Built for **SIH** — a hackathon project under the VoiceGuard banner.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📸 Insta_saver
-**yt-dlp + ffmpeg + Meta Graph API + Docker**
+`yt-dlp` `ffmpeg` `Meta Graph API` `Docker`
 
-An Instagram reel-saving DM bot, containerized and deployed on Render.
+An **Instagram reel-saving DM bot**, containerized and deployed on **Render**.
 
 </td>
 </tr>
@@ -139,46 +158,59 @@ An Instagram reel-saving DM bot, containerized and deployed on Render.
 - ⚙️ **C++ Auto-Runner for Colab** — eliminates `%%cpp` magic tags with a safe leftover-magic stripper
 - 🖼️ **Drive Photo Renamer** — parses Android/GCam filename patterns into clean, date-stamped names
 - 📺 **Google Photos Streaming Site** — Picker API + Cloudflare Workers proxy for free public video streaming
-- 🎞️ **Batch MKV Audio Pipeline** — parallel Colab sessions with heartbeat-based race protection for ffmpeg track processing
+- 🎞️ **Batch MKV Audio Pipeline** — parallel Colab sessions with heartbeat-based race protection for ffmpeg
 - 📦 **Zero-Disk Zip Extractor** — chunked, threaded streaming directly between Drive paths
-- 💪 **Fitness Tracker App** — Flutter + Supabase + Riverpod, developed via structured multi-phase agent prompting
+- 💪 **[Fitness Tracker App](https://github.com/dev-lover-codes/CodeAlpha_Fitness_Tracker)** — Flutter + Supabase + Riverpod via multi-phase agent prompting
+- 🃏 **[3D Flip Cards](https://github.com/dev-lover-codes/CodeAlpha_3D_FlipCards)** — Flutter 3D card animations
+- ♟️ **[Online Chess](https://github.com/dev-lover-codes/Online-chess-no-login-required)** — play instantly, no login required
 - 🎨 **3D Engineering-Blueprint Portfolio** — Three.js-powered personal site
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%"/>
+
+## 🧊 3D Contribution Skyline
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-lover-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="dev-lover-codes's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lover-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-lover-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0221&title_color=a78bfa&icon_color=f472b6" alt="GitHub stats" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=dev-lover-codes&theme=tokyonight&hide_border=true&background=0D0221&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE" alt="GitHub streak" height="170"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lover-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-lover-codes&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=f472b6&point=22d3ee&area=true" alt="Contribution graph" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-lover-codes&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-lover-codes/dev-lover-codes/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/dev-lover-codes/dev-lover-codes/output/github-snake.svg" alt="Contribution snake" width="100%"/>
+</picture>
 </div>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/dev-lover-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://medisync.is-a.dev"><img src="https://img.shields.io/badge/MediSync-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<!-- Add your real links, then uncomment:
+<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+-->
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:7c3aed,100:f472b6&height=120&section=footer&text=Building%20in%20public%20%E2%80%94%20one%20AI-assisted%20commit%20at%20a%20time&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<div align="center">
-<i>⭐ Building in public, one AI-assisted commit at a time.</i>
 </div>
